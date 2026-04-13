@@ -1,0 +1,1 @@
+# android_kernel_huawei_JSN_EMUI9.1.0_KernelSU
